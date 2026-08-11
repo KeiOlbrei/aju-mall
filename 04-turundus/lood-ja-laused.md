@@ -10,4 +10,4 @@ Laused ja lood, mis päriselt töötavad. Su aju kasutab neid iga kord, kui ta s
 >
 > *„Pane see lause lugude ja lausete faili — see töötas."*
 
-Su hääl on failis [`../01-mina/haal-ja-toon.md`](../01-mina/haal-ja-toon.md) — **see** fail ütleb, *kuidas* sa kõlad. Siin on konkreetne materjal, mida uuesti kasutada.
+Su hääl on failis [`../01-mina/stiil-ja-toon.md`](../01-mina/stiil-ja-toon.md) — **see** fail ütleb, *kuidas* sa kõlad. Siin on konkreetne materjal, mida uuesti kasutada.

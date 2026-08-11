@@ -36,19 +36,19 @@ Claude ei salvesta ise. Ta teeb muudatused su arvutis ja jääb ootama. Kui sa e
 | Fail | Mis sinna käib |
 |---|---|
 | `01-mina/kes-ma-olen.md` | Nimi, ettevõte, mida ma müün ühe lausega |
-| `01-mina/haal-ja-toon.md` | Kuidas ma kirjutan ja räägin **(1)** |
+| `01-mina/stiil-ja-toon.md` | Kuidas ma kirjutan ja räägin **(1)** |
 | `01-mina/tulevane-mina.md` | Kes ma olen, kui see kõik töötab **(9 — vabatahtlik)** |
 | `02-pakkumine/ideaalklient.md` | Kellega ma tahan töötada ja kellega mitte **(2)** |
 | `02-pakkumine/teenused.md` | Mida ma müün **(3)** |
 | `02-pakkumine/hinnastamine.md` | Mis hinnaga **(3)** |
-| `02-pakkumine/vaartus-ja-tulemused.md` | Mis on kliendi jaoks pärast teisiti, ja mis seda tõestab **(6)** |
-| `03-toovood/kliendi-teekond.md` | Mis juhtub, kui klient ütleb jah **(4)** |
-| `03-toovood/mis-kordub.md` | Mis on iga kliendiga täpselt ühesugune **(4)** |
+| `02-pakkumine/kliendi-tulemus.md` | Mis on kliendi jaoks pärast teisiti, ja mis seda tõestab **(6)** |
+| `03-protsessid/kliendi-teekond.md` | Mis juhtub, kui klient ütleb jah **(4)** |
+| `03-protsessid/mis-kordub.md` | Mis on iga kliendiga täpselt ühesugune **(4)** |
 | `04-turundus/kanalid-ja-kitsaskoht.md` | Kust kliendid tulevad ja kus praegu kinni jääb **(7)** |
 | `04-turundus/lood-ja-laused.md` | Laused ja lood, mis päriselt töötavad |
-| `05-nadal/eesmargid-ja-numbrid.md` | Kus ma olen ja kuhu tahan **(5)** |
-| `05-nadal/mis-on-proovitud.md` | Mis ei töötanud ja mille juurde ei ole vaja tagasi tulla **(8)** |
-| `05-nadal/otsuste-logi.md` | Mis otsustati, millal, miks |
+| `05-otsused/minu-numbrid.md` | Kus ma olen ja kuhu tahan **(5)** |
+| `05-otsused/mis-on-proovitud.md` | Mis ei töötanud ja mille juurde ei ole vaja tagasi tulla **(8)** |
+| `05-otsused/otsuste-logi.md` | Mis otsustati, millal, miks |
 
 **Ja üks kaust, mis GitHubi ei lähe:**
 
@@ -74,4 +74,4 @@ Claude ei salvesta ise. Ta teeb muudatused su arvutis ja jääb ootama. Kui sa e
 
 Su aju on tavalised tekstifailid, mis kuuluvad sulle. Nad töötavad iga AI-ga. Ütle uuele tööriistale: **„loe AGENTS.md"** — ja ta teab, kuidas siin käituda.
 
-Mis töötab igal pool ja mis on ühe tööriista külge kinni, on kirjas failis [`portability.md`](portability.md).
+Mis töötab igal pool ja mis on ühe tööriista külge kinni, on kirjas failis [`kaasaskantavus.md`](kaasaskantavus.md).

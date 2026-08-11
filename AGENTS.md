@@ -24,9 +24,9 @@ Vaata **[`01-mina/kes-ma-olen.md`](01-mina/kes-ma-olen.md)** — nimi, ettevõte
 |---|---|
 | `01-mina/` | Kes ma olen, minu hääl, minu tulevane mina |
 | `02-pakkumine/` | Mida ma müün, kellele, mis hinnaga, mis tulemusega |
-| `03-toovood/` | Kuidas ma töötan, mis kordub iga kliendiga |
+| `03-protsessid/` | Kuidas ma töötan, mis kordub iga kliendiga |
 | `04-turundus/` | Kust kliendid tulevad, mis on kitsaskoht, mis laused töötavad |
-| `05-nadal/` | Eesmärgid ja numbrid, otsuste logi, mis on juba proovitud |
+| `05-otsused/` | Eesmärgid ja numbrid, otsuste logi, mis on juba proovitud |
 | `toormaterjal/` | Toores materjal. **Jääb minu arvutisse, GitHubi ei lähe.** |
 
 Mis failis mis teema elab — vt [`TEEMAD.md`](TEEMAD.md).
@@ -86,6 +86,6 @@ Ja **kui midagi läks hästi, lisa see tõendite nimekirja.** Seda ei muuda vaid
 
 ## Hoia ülekantavuse nimekiri värske
 
-Failis [`portability.md`](portability.md) on kirjas, mis minu ajust töötab igas tööriistas ja mis on seotud ainult ühega. **Kui sa lisad midagi, mis töötab ainult ühes tööriistas** — automaatika, otsetee, ühendus — lisa sinna rida samas sessioonis.
+Failis [`kaasaskantavus.md`](kaasaskantavus.md) on kirjas, mis minu ajust töötab igas tööriistas ja mis on seotud ainult ühega. **Kui sa lisad midagi, mis töötab ainult ühes tööriistas** — automaatika, otsetee, ühendus — lisa sinna rida samas sessioonis.
 
 Test: *kui ma avaksin selle repo homme teises tööriistas, kas see asi töötaks?* Kui ei, siis läheb nimekirja.

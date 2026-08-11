@@ -10,7 +10,7 @@ Siin on teemad. Iga teema juures on kirjas, mida sa võiksid AI-le anda: linke, 
 
 ## 1. Sinu stiil ja hääl
 
-→ `01-mina/haal-ja-toon.md`
+→ `01-mina/stiil-ja-toon.md`
 
 See on läbiv stiil, mida sa kasutad klientidega suhtlemisel, müügis ja turunduses. Kui su aju seda teab, kõlab kõik, mida ta sinu eest kirjutab, sinu moodi — mitte AI moodi.
 
@@ -38,7 +38,7 @@ Su teenused, paketid, hinnad. Ka need hinnad, mis kodulehel ei ole.
 
 ## 4. Kuidas sa töötad
 
-→ `03-toovood/kliendi-teekond.md` ja `03-toovood/mis-kordub.md`
+→ `03-protsessid/kliendi-teekond.md` ja `03-protsessid/mis-kordub.md`
 
 Mis juhtub, kui klient ütleb jah — samm-sammult, kuni töö on tehtud. Ja mis kordub iga kliendiga täpselt ühtemoodi.
 
@@ -48,7 +48,7 @@ Mis juhtub, kui klient ütleb jah — samm-sammult, kuni töö on tehtud. Ja mis
 
 ## 5. Mis on sinu eesmärgid ja kuidas sinna jõuda
 
-→ `05-nadal/eesmargid-ja-numbrid.md`
+→ `05-otsused/minu-numbrid.md`
 
 Su numbrid praegu ja see, kus nad peaksid aasta pärast olema. Ja üks number, mida enamik ei ole kunagi välja arvutanud: **mitut klienti sa üldse jõuad teenindada?**
 
@@ -58,7 +58,7 @@ Su numbrid praegu ja see, kus nad peaksid aasta pärast olema. Ja üks number, m
 
 ## 6. Millist väärtust sa oma kliendile lood? Mis on selle tõestuseks?
 
-→ `02-pakkumine/vaartus-ja-tulemused.md`
+→ `02-pakkumine/kliendi-tulemus.md`
 
 Mitte see, mida sa teed, vaid see, mis on kliendi jaoks pärast teisiti. Ja tõestus: sinu klientide edulood.
 
@@ -84,7 +84,7 @@ Kaks asja, mis koos ütlevad su ajule, mida sulle üldse soovitada.
 
 ## 8. Mis on juba proovitud
 
-→ `05-nadal/mis-on-proovitud.md`
+→ `05-otsused/mis-on-proovitud.md`
 
 Mis ei töötanud — turundus, teenused, tööriistad, koostööd. Ja mis on juba otsustatud, mille juurde ei ole vaja tagasi tulla.
 

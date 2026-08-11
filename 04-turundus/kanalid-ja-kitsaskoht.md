@@ -27,4 +27,4 @@ Soovitused, koduleht, sotsiaalmeedia, otsekontakt, reklaam — ja umbkaudu kui p
 
 Aju, mis seda ei tea, soovitab sulle sisuturundust siis, kui sul on tegelikult kliente juba rohkem, kui sa jõuad teenindada. Aju, mis teab, ütleb hoopis, mille sa peaksid käest ära andma.
 
-**Ja see muutub.** Kui kitsaskoht liigub, kirjuta üle — see ongi mõte. Vana ei ole vaja alles hoida; kui tahad, käib see rida `05-nadal/otsuste-logi.md`-sse kuupäevaga.
+**Ja see muutub.** Kui kitsaskoht liigub, kirjuta üle — see ongi mõte. Vana ei ole vaja alles hoida; kui tahad, käib see rida `05-otsused/otsuste-logi.md`-sse kuupäevaga.

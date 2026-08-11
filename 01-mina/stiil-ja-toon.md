@@ -10,6 +10,6 @@ Kuidas ma kirjutan ja räägin. Kui see fail on täidetud, kõlab kõik, mida su
 
 > **TÜHI.** Näita Claude'ile 2–3 asja, mille sa oled ise kirjutanud — postitus, kliendikiri, pakkumine — ja ütle:
 >
-> *„Loe need läbi, kirjelda mu häält ja kirjuta see `01-mina/haal-ja-toon.md` faili. Kasuta minu enda sõnu, ära ilusta."*
+> *„Loe need läbi, kirjelda mu häält ja kirjuta see `01-mina/stiil-ja-toon.md` faili. Kasuta minu enda sõnu, ära ilusta."*
 >
 > Kolm päris teksti õpetavad su häält rohkem kui pool tundi selle kirjeldamist.
