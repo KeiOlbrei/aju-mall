@@ -8,7 +8,9 @@ Su numbrid praegu ja see, kus nad peaksid aasta pärast olema.
 
 ---
 
-> **TÜHI.** Kirjuta nii täpselt, kui sa tead. **On väga okei, kui sa kõigele praegu vastata ei oska** — kirjuta „ei tea" ja mine edasi. Su aju küsib hiljem uuesti, siis kui tal seda päriselt vaja on.
+> **TÜHI.** Ütle Claude'ile: *„küsi minult need numbrid ükshaaval ja kirjuta need siia faili."* Kui sul on arved või raamatupidamise väljavõte, näita neid talle — siis ta arvutab osa ise välja.
+>
+> **On väga okei, kui sa kõigele praegu vastata ei oska** — ütle „ei tea" ja mine edasi. Su aju küsib hiljem uuesti, siis kui tal seda päriselt vaja on.
 
 **See lagi — mitut klienti sa jõuad — on number, mida enamik ei ole kunagi välja arvutanud.** Ja see on ainus asi, mille vastu sa oma edasiminekut mõõta saad.
 

@@ -10,7 +10,9 @@
 
 Soovitused, koduleht, sotsiaalmeedia, otsekontakt, reklaam — ja umbkaudu kui palju kust.
 
-> **TÜHI.** Enamikul on tegelikult ainult üks kanal, aga seda pole keegi valjusti öelnud. Ütle see valjusti.
+> **TÜHI.** Ütle Claude'ile: *„küsi minult, kust mu kliendid tulevad, ja kirjuta vastus siia faili."*
+>
+> Enamikul on tegelikult ainult üks kanal, aga seda pole keegi valjusti öelnud. Ütle see valjusti.
 
 ## Kus praegu kinni jääb
 
@@ -21,7 +23,9 @@ Soovitused, koduleht, sotsiaalmeedia, otsekontakt, reklaam — ja umbkaudu kui p
 - Kliente on, aga sa ei jõua neid teenindada?
 - Jõuad küll, aga kasum on väike?
 
-> **TÜHI.**
+> **TÜHI.** Vali üks ja ütle Claude'ile, kumb see on ja miks. Tema kirjutab.
+>
+> Kui sa ei oska valida, näita talle, mis ajus juba on, ja ütle: *„vaata mu aju ja ütle, kus sa arvad, et mul praegu kinni jääb."* Vastus on sinu, mitte tema — aga tal on sinu numbrid ees.
 
 ---
 

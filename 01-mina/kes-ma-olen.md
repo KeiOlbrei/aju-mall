@@ -12,6 +12,6 @@ Kõige lühem fail su ajus, ja esimene, mille iga AI läbi loeb.
 
 ---
 
-> **TÜHI.** Täida ise ära — see võtab kaks minutit. Või ütle Claude'ile: *„küsi minult need kolm asja ja kirjuta need siia faili".*
+> **TÜHI.** Ütle Claude'ile: *„küsi minult need kolm asja ja kirjuta vastused siia faili."* Või täida ise ära — see on lihtsalt tekst ja võtab kaks minutit.
 >
 > **Kirjuta see oma sõnadega.** Kui sa ütled „ma aitan inimestel oma kodu korda saada", siis nii siia kirjutagi. Mitte „terviklikud ruumilahendused" — see ei ole sina, ja kõik, mida su AI edaspidi kirjutab, ehitatakse selle lause peale.
