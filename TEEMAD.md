@@ -38,12 +38,14 @@ Su teenused, paketid, hinnad. Ka need hinnad, mis kodulehel ei ole.
 
 ## 4. Kuidas sa töötad
 
-→ `03-protsessid/kliendi-teekond.md` ja `03-protsessid/mis-kordub.md`
+→ `03-protsessid/kliendi-teekond.md`, `03-protsessid/mis-kordub.md` ja `03-protsessid/pohjad.md`
 
 Mis juhtub, kui klient ütleb jah — samm-sammult, kuni töö on tehtud. Ja mis kordub iga kliendiga täpselt ühtemoodi.
 
-**Mida tuua:** olemasolevad mallid, checklistid, lepingupõhjad · kirjeldus oma sõnadega
+**Mida tuua:** olemasolevad mallid, checklistid, lepingupõhjad · paar päris dokumenti, mille sa oled välja saatnud (pakkumine, kokkuvõte, arve) · kirjeldus oma sõnadega
 
+> **Dokumendid, mida sa iga kord uuesti teed, tasub põhjaks teha** — võta kliendi andmed välja, jäta struktuur alles. Vt [`03-protsessid/pohjad.md`](03-protsessid/pohjad.md). Su aju hakkab siis teadma, mis dokumente su äris kasutatakse, ja oskab järgmise ise ära teha.
+>
 > Siin tuleb välja see, mille sa 4. nädalal esimesena ära annad.
 
 ## 5. Mis on sinu eesmärgid ja kuidas sinna jõuda

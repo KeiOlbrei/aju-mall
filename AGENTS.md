@@ -75,7 +75,11 @@ Aju ei ole prügikast. Toorest vestluslogi siia ei panda — pannakse see, mille
 
 ## Mis ajju ei lähe
 
-- **Kliendinimed ja isikuandmed.** Kui mu agent hakkab kliendiandmeid puutuma, seadistame selle jaoks eraldi koha. Seni: meetod ajju, andmed mitte.
+- **Kliendi tundlik info.** Näita mulle julgelt oma äri asju — arveid, pakkumisi, kirju, märkmeid. Aga **ära too mulle dokumenti, kus on kliendi isikukood, kontonumber, kodune aadress või midagi tema eraelust.** Kui sul on selline dokument ja sa tahad sellest põhja teha, võta tundlik osa enne välja.
+
+  Ja ajju kirjuta ainult see, **mida sellest õppida oli — mitte see, kes klient oli.** „Kolm klienti küsisid sama asja" läheb ajju. Nimi, telefon ja isikukood ei lähe.
+
+  Kui mu agent hakkab hiljem päriselt kliendiandmeid töötlema, seadistame selle jaoks eraldi koha.
 - **Paroolid, API võtmed, ligipääsud.** Mitte kunagi aju faili ja mitte kunagi vestlusesse. Kui mu agent hiljem võtit vajab, seadistame selle eraldi.
 
 ## Kui ma jään kinni

@@ -44,6 +44,7 @@ Claude ei salvesta ise. Ta teeb muudatused su arvutis ja jääb ootama. Kui sa e
 | `02-pakkumine/kliendi-tulemus.md` | Mis on kliendi jaoks pärast teisiti, ja mis seda tõestab **(6)** |
 | `03-protsessid/kliendi-teekond.md` | Mis juhtub, kui klient ütleb jah **(4)** |
 | `03-protsessid/mis-kordub.md` | Mis on iga kliendiga täpselt ühesugune **(4)** |
+| `03-protsessid/pohjad.md` | Dokumendid, mida sa iga kord uuesti teed — leping, pakkumine, kokkuvõte **(4)** |
 | `04-turundus/kanalid-ja-kitsaskoht.md` | Kust kliendid tulevad ja kus praegu kinni jääb **(7)** |
 | `04-turundus/lood-ja-laused.md` | Laused ja lood, mis päriselt töötavad |
 | `05-otsused/minu-numbrid.md` | Kus ma olen ja kuhu tahan **(5)** |
