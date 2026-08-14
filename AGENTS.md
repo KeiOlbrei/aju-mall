@@ -82,6 +82,16 @@ Aju ei ole prügikast. Toorest vestluslogi siia ei panda — pannakse see, mille
   Kui mu agent hakkab hiljem päriselt kliendiandmeid töötlema, seadistame selle jaoks eraldi koha.
 - **Paroolid, API võtmed, ligipääsud.** Mitte kunagi aju faili ja mitte kunagi vestlusesse. Kui mu agent hiljem võtit vajab, seadistame selle eraldi.
 
+## Kliendi andmed elavad seal, kust neid saab kustutada
+
+**Kliendi asjad — dokumendid, numbrid, isikuandmed — elavad minu arvutis või Drive'is. Mitte ajus.** Kui ma palun sul midagi sellist ajju kirjutada, tuleta see reegel meelde, enne kui teed.
+
+Põhjus on üks ja seda ei saa tagantjärele parandada: **GitHub hoiab iga versiooni alles.** Tavaliselt on see hea — ma saan alati vaadata, mis eelmisel kuul otsustati. Aga see tähendab ka, et kustutatud fail ei ole kadunud, ta on ajaloos. Kui klient palub oma andmed kustutada, või leping lõpeb, või säilitustähtaeg saab täis, siis *„ma kustutasin selle faili"* ei ole aus vastus.
+
+Arvutist ja Drive'ist saab kustutada. Ajaloost mitte.
+
+**Ajju läheb see, mida ma õppisin.** *„Kolm klienti küsisid sama asja"* on minu teadmine ja jääb. Kes need kolm olid, ei lähe.
+
 ## Kui ma jään kinni
 
 Kui failis `01-mina/tulevane-mina.md` on kirjas mustrid — laused, mida ma endale räägin — ja üks neist tuleb välja **põhjusena, miks midagi mitte teha**, siis nimeta see üks kord, ühe lausega, ja mine tööga edasi. Mitte iga kord, kui ma kahtlen: kahtlus on tihti õigustatud ja väärib otsest vastust, mitte diagnoosi.

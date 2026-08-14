@@ -59,12 +59,13 @@ Claude ei salvesta ise. Ta teeb muudatused su arvutis ja jääb ootama. Kui sa e
 
 ---
 
-## Kolm sahtlit — kuhu mis läheb
+## Neli sahtlit — kuhu mis läheb
 
 | Kuhu | Mis | Kas läheb GitHubi |
 |---|---|---|
 | **Ajju** (`01-mina/`, `02-pakkumine/` …) | Destilleeritud teadmine — kes ma olen, mida ma müün, mu hääl, mu otsused | Jah |
 | **`toormaterjal/`** | Lahtine toorik — eksport, transkript, ekraanipilt | **Ei.** Jääb ainult su arvutisse. |
+| **Kliendi andmed** | Kliendi dokumendid, numbrid, isikuandmed | **Ei.** Su arvutis või Drive'is — kohas, kust neid saab päriselt kustutada. |
 | **Saladused** | Paroolid, API võtmed, ligipääsud | **Ei kunagi.** Ja mitte kunagi ka vestlusesse. |
 
 **Destilleeri, ära kalla.** Aju ei ole prügikast. Toorest vestluslogi siia ei panda — pannakse see, mille AI sellest välja võttis.
