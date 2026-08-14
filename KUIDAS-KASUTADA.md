@@ -65,6 +65,32 @@ See on see pool, mida kuskil kirjas ei ole — su hääl, miks sa mõnest kliend
 
 ---
 
+## Aju + töökaust — sa ei pea kõike ajju kolima
+
+Su arvutis on kaustu, mis ei ole ja ei peagi olema osa ajust — arved, CRM, kliendikaustad, pildid. **Sa ei koli neid ajju. Sa ühendad nad vestluses aju kõrvale siis, kui sa nendega parasjagu tööd teed.**
+
+Ühes vestluses saab korraga ühendatud olla mitu kausta: vali aju, ja lisa `+` alt juurde see kaust, millega sa töötad.
+
+> *Ühenda mu aju ja kaust `Arved`. Tee uus arve — kliendi info ja hinnad võta ajust, vormi vaata eelmiste arvete järgi.*
+
+> *Ühenda mu aju ja mu CRM-i kaust. Lisa sinna eilne uus klient — kes ta on ja mida ta tahab, vaata ajust.*
+
+Mis siin toimub:
+
+- **Aju annab konteksti** — kes on klient, mis on su hinnad, kuidas sa asju sõnastad.
+- **Kaust on töölaud** — sealt tulevad näidised, sinna läheb tulemus.
+- **Kaust ei muutu aju osaks.** Midagi ei kopeerita ja midagi ei sünkita GitHubi.
+
+Ajju läheb ainult see, mida sa ütled, et sinna läheks:
+
+> *Neid arveid ajju ei pane. Pane ajju ainult see, et selle kliendi hind tõuseb 1. septembrist.*
+
+**Sellepärast sa ei kaota midagi sellega, et kliendi andmed ajus ei ela.** Nad on su arvutis või Drive'is, ühe klõpsu kaugusel, ja aju teab neist täpselt nii palju, kui sina tahad.
+
+> **Lokaalne kaust on ainult desktopis.** Brauseri Claude su arvutisse ei näe. iCloudi või Dropboxi sünkitud kaust on Claude'i jaoks samuti tavaline lokaalne kaust — desktop näeb, brauser ei näe. Kui sul on vaja sama kaust ka brauseris kätte saada, hoia seda Google Drive'is ja ühenda konnektoriga.
+
+---
+
 ## Aju küsib vastu
 
 **See on nädala 1 kõige tähtsam lause.** Kasuta seda siis, kui ajus on juba midagi sees.
