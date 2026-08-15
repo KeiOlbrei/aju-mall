@@ -48,6 +48,18 @@ Mis juhtub, kui klient ütleb jah — samm-sammult, kuni töö on tehtud. Ja mis
 >
 > Siin tuleb välja see, mille sa 4. nädalal esimesena ära annad.
 
+### Ja kust info sinuni jõuab
+
+Sama küsimuse teine pool, ja seda ei küsi endalt keegi. **Kus su ettevõtte kohta info üldse tekib?**
+
+Kõned ja koosolekud. E-kiri. LinkedIni sõnumid. Messenger. Arved. Kliendihaldustarkvara. Märkmed telefonis.
+
+Tee neist lihtsalt nimekiri ja märgi iga koha juurde kaks asja: **mis seal väärtuslikku on**, ja **kas see jõuab praegu ajju või mitte.**
+
+**Mida tuua:** lihtsalt räägi
+
+> Enamik neist kohtadest ei jõua ajju kunagi, ja esialgu on see täiesti okei. Aga ühtegi neist ei saa automatiseerida enne, kui sa oled nad kirja pannud. Nimekiri ise ongi pool tööd: tavaliselt selgub, et üks või kaks kohta hoiavad kõige väärtuslikumat infot ja just neid pole keegi kunagi kuhugi kokku kogunud.
+
 ## 5. Mis on sinu eesmärgid ja kuidas sinna jõuda
 
 → `05-otsused/minu-numbrid.md`
