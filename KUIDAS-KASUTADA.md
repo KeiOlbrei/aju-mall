@@ -37,17 +37,27 @@ Iga vestlus algab külmalt. Claude ei mäleta eelmist korda — konteksti kannab
 
 ---
 
-## Kui sa ei tea, kuhu info käib
+## Kui sa ei tea, kuhu midagi panna
 
-Sa ei pea kaustastruktuuri pähe õppima. Küsi Brainilt:
+Sa ei pea teadma GitHubi ega kaustade reegleid. Kirjelda lihtsalt, mis sul on:
 
-> *Mul on selline info: [kirjelda või kleebi lühike näide]. Kuhu see käib? Ära salvesta veel. Küsi minult ainult see, mis on otsuseks puudu — kõige rohkem kaks küsimust korraga. Siis ütle: 1) täpne fail, kaust või süsteem, 2) miks just sinna, 3) kuidas AI sellele ligi pääseb või miks ei tohi, ja 4) mida pärast kasutamist Braini destilleerida. Kui ma vastan, tee muudatus õigesse kohta.*
+> *Mul on [kirjelda materjali]. Mida ma sellega teen ja kuhu see käib? Ära veel midagi liiguta. Anna esmalt turvaline soovitus, küsi ainult see, mis on puudu, ja selgita inimkeeles, miks.*
 
-Kui vajalikud vastused on juba Brainis kirjas, ei küsi AI neid uuesti. Ta vastab kohe ja selgitab põhjuse.
+Näiteks:
 
-Lühiversioon igapäevaseks kasutamiseks:
+> *Mul on kaust täis vanu arveid. Mida ma sellega teen ja kuhu see käib?*
 
-> *Kuhu see info käib: [info]? Selgita enne kirjutamist, miks.*
+Brain peaks kõigepealt ütlema, et originaalarved jäävad töökausta või Drive'i, mitte Braini. Seejärel küsib ta ainult:
+
+1. mida sa tahad arvetest saada;
+2. kas Claude tohib kliendiandmeid lugeda või tuleb need enne anonümiseerida.
+
+Lõplik vastus ütleb:
+
+- kus hoida originaale;
+- mida neist Braini õppida;
+- miks;
+- mis on järgmine samm.
 
 
 
