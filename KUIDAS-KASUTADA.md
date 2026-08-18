@@ -39,6 +39,8 @@ Iga vestlus algab külmalt. Claude ei mäleta eelmist korda — konteksti kannab
 
 ## Aju seemendamine
 
+Enne faili või kausta näitamist küsi kaks eri küsimust: **kas see tohib minna GitHubi ajalukku?** ja **kas AI-pakkuja tohib selle sisu töödelda?** Lokaalne kaust ja `.gitignore` lahendavad ainult esimese. Kui AI ei tohi materjali töödelda, ära seda siia lisa ega ava; anonümiseeri esmalt offline.
+
 Kaks liigutust, ja enamik inimesi vajab mõlemat.
 
 ### 1. Näita, mis sul juba on
@@ -49,11 +51,11 @@ Kaks liigutust, ja enamik inimesi vajab mõlemat.
 
 **Näita kindlat kausta, mitte kogu arvutit.** Osuta `Dokumendid/Minu firma` peale, mitte `Dokumendid` peale — muidu loeb ta ka su maksuasjad läbi.
 
-**Kui midagi on lahtiselt** — ChatGPT eksport, häälmärkme transkript, ekraanipilt — pane see kausta `toormaterjal/` ja ütle:
+**Kui midagi on lahtiselt ja AI tohib seda töödelda** — ChatGPT eksport, häälmärkme transkript, ekraanipilt — pane see kausta `toormaterjal/` ja ütle:
 
 > *Loe `toormaterjal/` läbi ja destilleeri see mu ajju. Toorikut ennast ajju ei kopeeri.*
 
-> Sa võid sinna panna mida iganes — PDF-i, pildi, Wordi faili, ekraanipildi. Claude loeb need ära. Vahe on selles: **tekst on aju, kõik muu on materjal, millest aju õpib.**
+> Sinna võib panna PDF-i, pildi, Wordi faili või ekraanipildi **ainult siis, kui AI-pakkuja tohib selle sisu töödelda.** §.gitignore§ tähendab, et GitHub ei salvesta faili; see ei tähenda, et Claude seda lugedes ei töötle.
 
 ### 2. Lase tal endalt küsida
 
@@ -67,11 +69,11 @@ See on see pool, mida kuskil kirjas ei ole — su hääl, miks sa mõnest kliend
 
 ## Aju + töökaust — sa ei pea kõike ajju kolima
 
-Su arvutis on kaustu, mis ei ole ja ei peagi olema osa ajust — arved, CRM, kliendikaustad, pildid. **Sa ei koli neid ajju. Sa ühendad nad vestluses aju kõrvale siis, kui sa nendega parasjagu tööd teed.**
+Su arvutis on kaustu, mis ei ole ja ei peagi olema osa ajust — arved, CRM, kliendikaustad, pildid. **Sa ei koli neid ajju. Kui AI tohib nende sisu töödelda, ühendad vajaliku kausta või faili vestluses aju kõrvale ainult selle töö ajaks.** Ühendamine ei saada faili GitHubi, kuid AI-pakkuja töötleb faili, mida ta loeb.
 
 Ühes vestluses saab korraga ühendatud olla mitu kausta: vali aju, ja lisa `+` alt juurde see kaust, millega sa töötad.
 
-> *Ühenda mu aju ja kaust `Arved`. Tee uus arve — kliendi info ja hinnad võta ajust, vormi vaata eelmiste arvete järgi.*
+> *Ühenda mu aju ja kaust `Arved`. Tee uus arve — üldised reeglid võta ajust; kliendi andmed, numbrid ja vorm võta sellest töökaustast. Salvesta mustand samasse töökausta, mitte ajju.*
 
 > *Ühenda mu aju ja mu CRM-i kaust. Lisa sinna eilne uus klient — kes ta on ja mida ta tahab, vaata ajust.*
 
