@@ -68,34 +68,45 @@ Kui ma vastan, **kirjuta see õigesse aju faili**, mitte ainult vestlusesse. Mui
 
 Muidu juhtub see: ma muudan ühte hinda ühes failis ja unustan teise. Nüüd on mul ajus kaks tõde ja ma ei tea, kumb kehtib.
 
-## Kui ma küsin: „Kuhu see info käib?"
+## Kui ma küsin: „Kuhu see käib?"
 
-Ära vasta automaatselt ainult kausta nimega ja ära kirjuta enne, kui otsus on tehtud.
+Kasutaja ei pea teadma, kuidas GitHub, failiajalugu või AI-töötlus tehniliselt töötab. **Sina tõlgid selle otsuse tema eest.**
 
-1. **Vaata kõigepealt**, mis info see on ja kas sellel on Brainis juba üks õige kodu.
-2. Kui otsus on olemasolevate reeglite järgi selge, vasta kohe. Kui ei ole, **küsi ainult see, mis on puudu — kõige rohkem kaks küsimust korraga:**
-   - Kas see on püsiv teadmine/protseduur, mida Brain peab hiljem uuesti kasutama, või ainult selle töö materjal/tulemus?
-   - Kas see tohib jääda GitHubi ajalukku?
-   - Kas AI-teenuse pakkuja tohib selle sisu töödelda?
-   - Kas see on muutuv algallikas, kliendi-/isikuandmed või saladus, mida peab saama päriselt kustutada?
-3. Enne kirjutamist anna vastus nelja reaga:
-   - **Pane see:** täpne fail, kaust või väline süsteem.
-   - **Miks:** milline reegel otsuse tegi.
-   - **AI ligipääs:** kuidas AI seda kasutada võib või miks ei tohi.
-   - **Pärast kasutamist:** mida Braini destilleerida või millist olemasolevat faili uuendada.
+1. Anna kõigepealt kirjeldatud materjali põhjal **turvaline vaikimisi soovitus**. Ära liiguta ega kirjuta veel midagi.
+2. Kui midagi olulist on puudu, küsi kõige rohkem kaks lihtsat küsimust:
+   - **Mida sa tahad selle materjaliga teha?** Kas lihtsalt alles hoida, õpetada Brainile korduv reegel/mall või kasutada seda ühe töö tegemiseks?
+   - **Kas siin on kliendi või kellegi teise privaatseid andmeid?** Kui jah: kas Claude tohib neid lugeda või tuleb need enne anonümiseerida?
+3. Ära küsi kasutajalt, kas fail „tohib jääda GitHubi ajalukku". Otsusta see ise allolevate reeglite järgi ja selgita pärast inimkeeles.
 
-### Vaikimisi paigutus
+Vasta nelja osaga:
 
-- **Püsiv äriteadmine või otsus** → uuenda olemasolevat Braini faili, mis on selle teema üks kodu.
-- **Korduv tööviis** → `03-protsessid/`. Kui kasutaja tahab sellest hiljem tööriistapõhist skill'i, hoia üldine protseduur siin ja märgi tööriistaspetsiifiline osa `kaasaskantavus.md`-s.
-- **Toormaterjal, mida AI tohib töödelda** → `toormaterjal/`, konkreetne töökaust või Drive; GitHubi läheb ainult destilleeritud tulemus.
-- **Muutuv algallikas** — CRM, kalender, raamatupidamine, Drive'i register → jääb algallikasse. Braini läheb reegel, link või püsiv järeldus, mitte koopia kogu registrist.
-- **Valmis dokument või muu töö tulemus** → töökaust või Drive. Braini ainult korduv mall, protseduur või õppetund.
-- **Kliendi-/isikuandmed** → lokaalne kaust või Drive, kust saab kustutada; AI loeb ainult siis, kui AI-töötlus on lubatud.
-- **Materjal, mida AI ei tohi töödelda** → offline; ära lisa, ava ega ühenda seda AI-s.
-- **Paroolid, võtmed ja ligipääsud** → paroolihaldur või turvaline seadistus, mitte Brain ega vestlus.
+- **Hoia/pane originaal:** täpne kaust, Drive või muu süsteem.
+- **Braini läheb:** milline püsiv teadmine, reegel, mall või protseduur—või „mitte midagi".
+- **Miks:** üks lühike inimkeelne põhjus.
+- **Järgmine samm:** mida kasutaja nüüd teeb või mida sina pärast tema vastust teed.
 
-**Ära loo uut faili, kui õige olemasolev kodu on juba olemas.** Ütle alati ka, miks valitud koht on parem kui lähim alternatiiv.
+### Otsusta taustal nii
+
+- **Püsiv äriteadmine või otsus** → olemasolev sobiv Braini fail.
+- **Korduv tööviis, mall või kontrollnimekiri** → `03-protsessid/`. Ära kopeeri sinna näidisdokumentide kliendiandmeid.
+- **Toored dokumendid ja näited** → jäävad oma praegusesse töökausta või Drive'i. Braini läheb ainult neist õpitud püsiv reegel.
+- **Muutuv register** — CRM, kalender, raamatupidamine, arvete arhiiv → jääb algallikasse. Brain ei hoia sellest koopiat.
+- **Valmis dokument** → töökaust või Drive. Braini ainult korduv mall/protseduur, kui sellest on tulevikus kasu.
+- **Kliendi-/isikuandmed** → kustutatav lokaalne kaust või Drive. Claude loeb neid ainult siis, kui see on lubatud.
+- **Materjal, mida Claude ei tohi lugeda** → hoia offline ja ära lisa ega ühenda AI-s; anonümiseeri esmalt offline-tööriistaga.
+- **Paroolid, võtmed ja ligipääsud** → paroolihaldur või turvaline seadistus.
+
+### Näide: vanade arvete kaust
+
+Kui kasutaja ütleb: *„Mul on kaust täis vanu arveid. Mida ma sellega teen ja kuhu panen?"*, vasta esmalt:
+
+> **Ära liiguta arveid Braini.** Hoia originaalid praeguses kaustas või Drive'is. Braini võib hiljem panna ainult arve loomise reeglid, malli ja kontrollnimekirja—mitte vanu arveid ega klientide andmeid.
+>
+> Mul on kaks küsimust:
+> 1. Mida sa tahad neist saada: uue arve malli/skill'i, ülevaadet või lihtsalt korrastatud arhiivi?
+> 2. Kas Claude tohib arvetel olevaid kliendiandmeid lugeda või peame need enne anonümiseerima?
+
+Pärast vastust anna täpne järgmine samm. **Ära loo uut faili, kui õige olemasolev kodu on juba olemas.**
 
 
 ## Salvesta GitHubi
