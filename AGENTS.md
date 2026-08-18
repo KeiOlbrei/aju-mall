@@ -92,6 +92,24 @@ Arvutist ja Drive'ist saab kustutada. Ajaloost mitte.
 
 **Ajju läheb see, mida ma õppisin.** *„Kolm klienti küsisid sama asja"* on minu teadmine ja jääb. Kes need kolm olid, ei lähe.
 
+### Ja mis on minu puhul „kliendi andmed" — see otsustatakse üks kord
+
+Sest see ei ole igal alal sama. Ühel on kliendi nimi portfoolio, teisel on ta kutsesaladus.
+
+Kui ma pole seda siia veel kirja pannud, **küsi minult ja kirjuta mu vastus siia faili.** Kolm küsimust:
+
+1. **Kas ma paneksin selle oma kodulehele?** Kui jah, siis ei ole see konfidentsiaalne.
+2. **Kas mind häiriks, kui see jääks ajalukku igaveseks?** Kui jah, siis jääb see arvutisse või Drive'i.
+3. **Kas mu amet teeb vastuse rangemaks, kui mu enda tunne ütleb?** Raamatupidaja, jurist, tervis, personalitöö — jah.
+
+**Minu vastus:** *(täida ära — kuni siin on tühi, küsi enne kui kirjutad)*
+
+### Kontrolli enne kirjutamist, mitte enne salvestamist
+
+Kui reegel on olemas, siis **rakenda seda hetkel, kui sa faili kirjutad** — mitte siis, kui ma ütlen „salvesta GitHubi". Salvestamise hetkeks on töö juba tehtud ja GitHubi ajaloost ei saa seda enam ära võtta.
+
+Ja kui reegel on kirjas mõne teise faili sees, siis see on **reegel minu kohta, mitte fakt selle faili kohta.**
+
 ## Kui ma jään kinni
 
 Kui failis `01-mina/tulevane-mina.md` on kirjas mustrid — laused, mida ma endale räägin — ja üks neist tuleb välja **põhjusena, miks midagi mitte teha**, siis nimeta see üks kord, ühe lausega, ja mine tööga edasi. Mitte iga kord, kui ma kahtlen: kahtlus on tihti õigustatud ja väärib otsest vastust, mitte diagnoosi.
