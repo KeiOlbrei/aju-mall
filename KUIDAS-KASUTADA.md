@@ -37,6 +37,20 @@ Iga vestlus algab külmalt. Claude ei mäleta eelmist korda — konteksti kannab
 
 ---
 
+## Kui sa ei tea, kuhu info käib
+
+Sa ei pea kaustastruktuuri pähe õppima. Küsi Brainilt:
+
+> *Mul on selline info: [kirjelda või kleebi lühike näide]. Kuhu see käib? Ära salvesta veel. Küsi minult ainult see, mis on otsuseks puudu — kõige rohkem kaks küsimust korraga. Siis ütle: 1) täpne fail, kaust või süsteem, 2) miks just sinna, 3) kuidas AI sellele ligi pääseb või miks ei tohi, ja 4) mida pärast kasutamist Braini destilleerida. Kui ma vastan, tee muudatus õigesse kohta.*
+
+Kui vajalikud vastused on juba Brainis kirjas, ei küsi AI neid uuesti. Ta vastab kohe ja selgitab põhjuse.
+
+Lühiversioon igapäevaseks kasutamiseks:
+
+> *Kuhu see info käib: [info]? Selgita enne kirjutamist, miks.*
+
+
+
 ## Aju seemendamine
 
 Enne faili või kausta näitamist küsi kaks eri küsimust: **kas see tohib minna GitHubi ajalukku?** ja **kas AI-pakkuja tohib selle sisu töödelda?** Lokaalne kaust ja `.gitignore` lahendavad ainult esimese. Kui AI ei tohi materjali töödelda, ära seda siia lisa ega ava; anonümiseeri esmalt offline.
