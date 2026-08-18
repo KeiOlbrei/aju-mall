@@ -55,7 +55,7 @@ Kaks liigutust, ja enamik inimesi vajab mõlemat.
 
 > *Loe `toormaterjal/` läbi ja destilleeri see mu ajju. Toorikut ennast ajju ei kopeeri.*
 
-> Sinna võib panna PDF-i, pildi, Wordi faili või ekraanipildi **ainult siis, kui AI-pakkuja tohib selle sisu töödelda.** §.gitignore§ tähendab, et GitHub ei salvesta faili; see ei tähenda, et Claude seda lugedes ei töötle.
+> Sinna võib panna PDF-i, pildi, Wordi faili või ekraanipildi **ainult siis, kui AI-pakkuja tohib selle sisu töödelda.** `.gitignore` tähendab, et GitHub ei salvesta faili; see ei tähenda, et Claude seda lugedes ei töötle.
 
 ### 2. Lase tal endalt küsida
 
