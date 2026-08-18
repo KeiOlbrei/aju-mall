@@ -68,6 +68,36 @@ Kui ma vastan, **kirjuta see õigesse aju faili**, mitte ainult vestlusesse. Mui
 
 Muidu juhtub see: ma muudan ühte hinda ühes failis ja unustan teise. Nüüd on mul ajus kaks tõde ja ma ei tea, kumb kehtib.
 
+## Kui ma küsin: „Kuhu see info käib?"
+
+Ära vasta automaatselt ainult kausta nimega ja ära kirjuta enne, kui otsus on tehtud.
+
+1. **Vaata kõigepealt**, mis info see on ja kas sellel on Brainis juba üks õige kodu.
+2. Kui otsus on olemasolevate reeglite järgi selge, vasta kohe. Kui ei ole, **küsi ainult see, mis on puudu — kõige rohkem kaks küsimust korraga:**
+   - Kas see on püsiv teadmine/protseduur, mida Brain peab hiljem uuesti kasutama, või ainult selle töö materjal/tulemus?
+   - Kas see tohib jääda GitHubi ajalukku?
+   - Kas AI-teenuse pakkuja tohib selle sisu töödelda?
+   - Kas see on muutuv algallikas, kliendi-/isikuandmed või saladus, mida peab saama päriselt kustutada?
+3. Enne kirjutamist anna vastus nelja reaga:
+   - **Pane see:** täpne fail, kaust või väline süsteem.
+   - **Miks:** milline reegel otsuse tegi.
+   - **AI ligipääs:** kuidas AI seda kasutada võib või miks ei tohi.
+   - **Pärast kasutamist:** mida Braini destilleerida või millist olemasolevat faili uuendada.
+
+### Vaikimisi paigutus
+
+- **Püsiv äriteadmine või otsus** → uuenda olemasolevat Braini faili, mis on selle teema üks kodu.
+- **Korduv tööviis** → `03-protsessid/`. Kui kasutaja tahab sellest hiljem tööriistapõhist skill'i, hoia üldine protseduur siin ja märgi tööriistaspetsiifiline osa `kaasaskantavus.md`-s.
+- **Toormaterjal, mida AI tohib töödelda** → `toormaterjal/`, konkreetne töökaust või Drive; GitHubi läheb ainult destilleeritud tulemus.
+- **Muutuv algallikas** — CRM, kalender, raamatupidamine, Drive'i register → jääb algallikasse. Braini läheb reegel, link või püsiv järeldus, mitte koopia kogu registrist.
+- **Valmis dokument või muu töö tulemus** → töökaust või Drive. Braini ainult korduv mall, protseduur või õppetund.
+- **Kliendi-/isikuandmed** → lokaalne kaust või Drive, kust saab kustutada; AI loeb ainult siis, kui AI-töötlus on lubatud.
+- **Materjal, mida AI ei tohi töödelda** → offline; ära lisa, ava ega ühenda seda AI-s.
+- **Paroolid, võtmed ja ligipääsud** → paroolihaldur või turvaline seadistus, mitte Brain ega vestlus.
+
+**Ära loo uut faili, kui õige olemasolev kodu on juba olemas.** Ütle alati ka, miks valitud koht on parem kui lähim alternatiiv.
+
+
 ## Salvesta GitHubi
 
 Kui me oleme ajus midagi muutnud, **tuleta mulle enne lõpetamist meelde see GitHubi salvestada.** Muidu jääb muudatus ainult minu arvutisse ja mina ei saa sellest teada — veateadet ei tule.
