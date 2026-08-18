@@ -55,18 +55,23 @@ Claude ei salvesta ise. Ta teeb muudatused su arvutis ja jääb ootama. Kui sa e
 
 | Kaust | Mis sinna käib |
 |---|---|
-| `toormaterjal/` | Toores materjal — ChatGPT eksport, häälmärkme transkript, ekraanipilt. **Jääb sinu arvutisse.** Vt [`toormaterjal/LOE-MIND.md`](toormaterjal/LOE-MIND.md). |
+| `toormaterjal/` | Toores materjal, mida AI tohib töödelda. **GitHubi ei lähe; AI loeb ainult siis, kui sa seda palud.** Vt [`toormaterjal/LOE-MIND.md`](toormaterjal/LOE-MIND.md). |
 
 ---
 
-## Neli sahtlit — kuhu mis läheb
+## Kaks küsimust enne iga faili
 
-| Kuhu | Mis | Kas läheb GitHubi |
-|---|---|---|
-| **Ajju** (`01-mina/`, `02-pakkumine/` …) | Destilleeritud teadmine — kes ma olen, mida ma müün, mu hääl, mu otsused | Jah |
-| **`toormaterjal/`** | Lahtine toorik — eksport, transkript, ekraanipilt | **Ei.** Jääb ainult su arvutisse. |
-| **Kliendi andmed** | Kliendi dokumendid, numbrid, isikuandmed | **Ei.** Su arvutis või Drive'is — kohas, kust neid saab päriselt kustutada. |
-| **Saladused** | Paroolid, API võtmed, ligipääsud | **Ei kunagi.** Ja mitte kunagi ka vestlusesse. |
+1. **Kas see fail tohib jääda GitHubi ajalukku?**
+2. **Kas AI-teenuse pakkuja tohib selle sisu töödelda?**
+
+| Materjal | GitHubi ajalukku? | Kas AI võib töödelda? | Kuhu |
+|---|---|---|---|
+| Destilleeritud äriteadmine ja protseduurid | Jah | Jah | Braini kaustad |
+| Toormaterjal, mida AI võib lugeda | Ei | Jah, kui sa seda ülesandes avad | `toormaterjal/`, muu lokaalne kaust või Drive |
+| Materjal, mida AI ei tohi töödelda | Ei | Ei | Offline; ära lisa, ava ega ühenda AI-s |
+| Paroolid, API võtmed, ligipääsud | Ei | Ei | Paroolihaldur või turvaline seadistus |
+
+`.gitignore` vastab ainult esimesele küsimusele. Lokaalse või Drive'i faili avamine AI-s tähendab, et AI-pakkuja töötleb selle sisu.
 
 **Destilleeri, ära kalla.** Aju ei ole prügikast. Toorest vestluslogi siia ei panda — pannakse see, mille AI sellest välja võttis.
 
