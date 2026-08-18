@@ -63,7 +63,11 @@ Lõplik vastus ütleb:
 
 ## Aju seemendamine
 
-Enne faili või kausta näitamist küsi kaks eri küsimust: **kas see tohib minna GitHubi ajalukku?** ja **kas AI-pakkuja tohib selle sisu töödelda?** Lokaalne kaust ja `.gitignore` lahendavad ainult esimese. Kui AI ei tohi materjali töödelda, ära seda siia lisa ega ava; anonümiseeri esmalt offline.
+Kui materjalis võib olla kliendiandmeid, paroole, panga- või terviseinfot, **ära anna kogu kausta veel Claude'ile lugeda**. Kirjelda materjali ilma faile lisamata:
+
+> *Mul on [kirjelda materjali]. Seal võib olla privaatset infot. Mida ma sellega teen? Ära veel faile ava ega liiguta.*
+
+Brain ütleb, kas originaalid jäävad töökausta või Drive'i, kas midagi tuleb enne offline anonümiseerida ja mida tasub neist Braini õppida. Sina ei pea GitHubi ega AI-töötluse tehnilisi reegleid ise otsustama.
 
 Kaks liigutust, ja enamik inimesi vajab mõlemat.
 
