@@ -30,7 +30,7 @@ Vaata **[`01-mina/kes-ma-olen.md`](01-mina/kes-ma-olen.md)** — nimi, ettevõte
 | `03-protsessid/` | Kuidas ma töötan, mis kordub iga kliendiga |
 | `04-turundus/` | Kust kliendid tulevad, mis on kitsaskoht, mis laused töötavad |
 | `05-otsused/` | Eesmärgid ja numbrid, otsuste logi, mis on juba proovitud |
-| `toormaterjal/` | Toores materjal. **Jääb minu arvutisse, GitHubi ei lähe.** |
+| `toormaterjal/` | Toores materjal, mida AI tohib töödelda. **GitHubi ei lähe; AI loeb ainult siis, kui ma seda palun.** |
 
 Mis failis mis teema elab — vt [`TEEMAD.md`](TEEMAD.md).
 
@@ -76,18 +76,29 @@ Kui me oleme ajus midagi muutnud, **tuleta mulle enne lõpetamist meelde see Git
 
 Aju ei ole prügikast. Toorest vestluslogi siia ei panda — pannakse see, mille sa sellest välja võtsid.
 
+## Kaks eraldi otsust iga faili kohta
+
+Enne faili lugemist või kirjutamist vasta eraldi:
+
+1. **Kas see fail tohib jääda GitHubi ajalukku?**
+2. **Kas AI-teenuse pakkuja tohib selle sisu töödelda?**
+
+`.gitignore` ja `toormaterjal/` vastavad ainult esimesele küsimusele. Kui sa loed lokaalset või Drive'i faili, töötleb AI-pakkuja selle sisu ka siis, kui fail GitHubi ei lähe.
+
+Kui teise küsimuse vastus on “ei”, **ära ava, lisa, loetle ega ühenda seda faili AI sessioonis.** Anonümiseeri see esmalt offline-tööriistaga.
+
+Kui fail on juba varem commit'itud, ei eemalda kustutamine ega `.gitignore` seda ajaloost.
+
 ## Mis ajju ei lähe
 
-- **Kliendi tundlik info.** Näita mulle julgelt oma äri asju — arveid, pakkumisi, kirju, märkmeid. Aga **ära too mulle dokumenti, kus on kliendi isikukood, kontonumber, kodune aadress või midagi tema eraelust.** Kui sul on selline dokument ja sa tahad sellest põhja teha, võta tundlik osa enne välja.
-
-  Ja ajju kirjuta ainult see, **mida sellest õppida oli — mitte see, kes klient oli.** „Kolm klienti küsisid sama asja" läheb ajju. Nimi, telefon ja isikukood ei lähe.
-
-  Kui mu agent hakkab hiljem päriselt kliendiandmeid töötlema, seadistame selle jaoks eraldi koha.
-- **Paroolid, API võtmed, ligipääsud.** Mitte kunagi aju faili ja mitte kunagi vestlusesse. Kui mu agent hiljem võtit vajab, seadistame selle eraldi.
+- **Kliendi tundlik info.** See ei lähe GitHubi. AI võib seda töödelda ainult siis, kui mul on selleks õigus ja valitud teenus sobib. Kui AI ei tohi seda töödelda, ära palu mul faili avada — anonümiseeri esmalt offline.
+- **Paroolid, API võtmed, ligipääsud.** Mitte kunagi aju faili ega vestlusesse. Kui agent võtit vajab, kasuta turvalist seadistust või paroolihaldurit.
 
 ## Kliendi andmed elavad seal, kust neid saab kustutada
 
 **Kliendi asjad — dokumendid, numbrid, isikuandmed — elavad minu arvutis või Drive'is. Mitte ajus.** Kui ma palun sul midagi sellist ajju kirjutada, tuleta see reegel meelde, enne kui teed.
+
+See reegel otsustab, kus fail elab. Kui ma palun sul seda lokaalset või Drive'i faili lugeda, töötleb AI-pakkuja selle sisu. Kontrolli enne ka teist otsust.
 
 Põhjus on üks ja seda ei saa tagantjärele parandada: **GitHub hoiab iga versiooni alles.** Tavaliselt on see hea — ma saan alati vaadata, mis eelmisel kuul otsustati. Aga see tähendab ka, et kustutatud fail ei ole kadunud, ta on ajaloos. Kui klient palub oma andmed kustutada, või leping lõpeb, või säilitustähtaeg saab täis, siis *„ma kustutasin selle faili"* ei ole aus vastus.
 
